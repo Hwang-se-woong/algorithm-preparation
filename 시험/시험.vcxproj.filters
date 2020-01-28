@@ -18,5 +18,8 @@
     <ClCompile Include="고양이.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="두 수 비교하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
