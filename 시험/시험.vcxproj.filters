@@ -66,5 +66,8 @@
     <ClCompile Include="러시아 국기 같은 깃발.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="다이아몬드.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
